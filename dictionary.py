@@ -1,0 +1,1 @@
+# iterate over a dictionary and print each key-value pair
